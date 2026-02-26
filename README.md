@@ -59,8 +59,9 @@ I specialize in crafting custom Salesforce apps using **Apex, Lightning Web Comp
 
 ## 📈 GitHub Stats
 
-![Padmini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PadminiBiswal&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PadminiBiswal&layout=compact&theme=tokyonight&hide_border=true)
+![Padmini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PadminiBiswal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PadminiBiswal&theme=tokyonight&hide_border=true)
 
 ---
 
