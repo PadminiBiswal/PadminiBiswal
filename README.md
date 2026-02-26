@@ -73,12 +73,10 @@ I specialize in crafting custom Salesforce apps using **Apex, Lightning Web Comp
 I'm always open to collaborating on **Salesforce projects**, **AI integrations**, or **open-source contributions**.  
 Feel free to reach out — let's build something great together!
 
-<div align="center">
+## 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmini-biswal-14549118a/)
-[![Trailhead](https://img.shields.io/badge/View_Trailblazer_Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/padmini26jan)
-
-</div>
+![Padmini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PadminiBiswal&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PadminiBiswal&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
